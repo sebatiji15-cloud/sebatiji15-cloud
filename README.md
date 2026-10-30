@@ -42,23 +42,47 @@ class SebaMThampy:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,c,cpp,js,php,html,css,jquery,angular&perline=11" alt="languages and frameworks"/>
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
+</p>
 
-<br/>
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,git,github,vscode,linux&perline=7" alt="tools"/>
+### ☁️ Cloud & Tools
+<p>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-</div>
-
-| Area | Skills |
-|:--|:--|
-| **Languages** | Python · C · C++ · JavaScript · PHP · HTML · CSS |
-| **Frameworks** | Django · Flask · jQuery · AngularJS |
-| **Databases** | MySQL · SQLite · Relational Database Design |
-| **Cloud & Tools** | AWS EC2 · AWS RDS · Git · GitHub · VS Code |
-| **Backend** | REST APIs · Role-Based Access Control · API Development |
+### 🔌 Backend Concepts
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Role_Based_Access_Control-0A66C2?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Relational_DB_Design-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ---
 
