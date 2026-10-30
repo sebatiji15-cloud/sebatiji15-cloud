@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Seba%20M%20Thampy&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=22" width="100%" alt="header"/>
+<h1 align="center">Hi, I'm Seba M Thampy 👋</h1>
+
+<h3 align="center">Full-Stack & Backend Developer | Python | Django | Flask</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Seba+%F0%9F%91%8B;Python+%7C+Django+%7C+Flask+Developer;Building+practical+solutions+through+code;AI+Software+Developer+Intern+%40+Inspite+Technologies;Open+to+Software+Engineer+Trainee+roles+%F0%9F%9A%80)](https://seba-portfoilovercelapp.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+Flask+Developer;Building+practical+solutions+through+code;AI+Software+Developer+Intern+%40+Inspite+Technologies;Open+to+Software+Engineer+Trainee+roles+%F0%9F%9A%80)](https://seba-portfoilovercelapp.vercel.app/)
 
 <a href="https://seba-portfoilovercelapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/seba-m-thampy-114b0629b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,11 +21,11 @@
 
 ```python
 class SebaMThampy:
-    role      = "Full-Stack & Backend Developer"
-    education = "MCA @ Saintgits College of Engineering (2025–2027)"
-    location  = "Kerala, India 🇮🇳"
-    stack     = ["Python", "Django", "Flask", "MySQL", "AWS"]
-    currently = "Building backend APIs & exploring applied AI"
+    role        = "Full-Stack & Backend Developer"
+    education   = "MCA @ Saintgits College of Engineering (2025-2027)"
+    location    = "Kerala, India"
+    stack       = ["Python", "Django", "Flask", "MySQL", "AWS"]
+    currently   = "Building backend APIs & exploring applied AI"
     looking_for = "Software Engineer Trainee opportunities"
 
     def pitch(self):
@@ -32,7 +34,7 @@ class SebaMThampy:
 
 - 🔭 Passionate about **Full-Stack & Backend Development**
 - ☁️ Hands-on with **AWS EC2 & RDS** deployments
-- 🤖 Curious about **applied AI** and emerging tech
+- 🤖 Curious about **applied AI** and emerging technologies
 - 🏆 NASA Space Apps 2025 · K-DISC YIP 8.0 · IEEE Member
 - 📫 Reach me at **sebatiji15@gmail.com**
 
@@ -43,6 +45,8 @@ class SebaMThampy:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,flask,c,cpp,js,php,html,css,jquery,angular&perline=11" alt="languages and frameworks"/>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,aws,git,github,vscode,linux&perline=7" alt="tools"/>
 
@@ -132,14 +136,20 @@ Track daily income and expenses with categorization and financial summaries.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sebatiji15-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebatiji15-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sebatiji15-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebatiji15-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=sebatiji15-cloud&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sebatiji15-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+<img src="https://streak-stats.demolab.com/?user=sebatiji15-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebatiji15-cloud&theme=tokyo-night&hide_border=true&area=true"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sebatiji15-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebatiji15-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 
 </div>
 
@@ -179,8 +189,6 @@ I'm actively looking for a **Software Engineer Trainee** role. If you have an op
 
 <a href="mailto:sebatiji15@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-sebatiji15%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+practical+solutions+through+code.;Thanks+for+visiting!+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+practical+solutions+through+code.;Thanks+for+visiting!+%E2%9C%A8" alt="footer typing"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
