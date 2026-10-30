@@ -132,24 +132,11 @@ Track daily income and expenses with categorization and financial summaries.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sebatiji15-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebatiji15-cloud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=sebatiji15-cloud&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sebatiji15-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebatiji15-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 
 </div>
 
